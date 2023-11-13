@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vstoinevbg@gmail.com**
 
-- ⚡ About me **I enjoy reading about technology, economics and self-development.**
+- ⚡ **I enjoy reading about technology, economics and self-development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
