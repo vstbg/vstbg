@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud native projects.**
 
-- 🤝 I’m looking for help with **DevOps and Cloud.**
+- 🤝 I’m looking for collaboration on **DevOps and Cloud.**
 
 - 💬 Ask me about **Technology, DevOps, Cloud services.**
 
