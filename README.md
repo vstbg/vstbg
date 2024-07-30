@@ -11,13 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Cloud native projects.**
 
-- 🤝 I’m looking for help with **DevOps and Cloud.**
-
 - 💬 Ask me about **Technology, DevOps, Cloud services.**
 
 - 📫 How to reach me **vstoinevbg@gmail.com**
 
-- ⚡ **I enjoy reading about technology, economics and self-development.**
+- ⚡ **I enjoy fishing, football and reading about technology, economics and self-development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
