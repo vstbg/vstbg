@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **DevOps tools and practices.**
 
-- 👯 I’m looking to collaborate on **Cloud native projects.**
-
 - 💬 Ask me about **Technology, DevOps, Cloud services.**
 
 - 📫 How to reach me **vstoinevbg@gmail.com**
